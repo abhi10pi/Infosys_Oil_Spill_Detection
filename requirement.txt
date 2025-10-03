@@ -1,0 +1,9 @@
+ipykernel
+numpy
+matplotlib
+pillow
+opencv-python
+scipy
+tensorflow
+tensorflow-gpu
+streamlit

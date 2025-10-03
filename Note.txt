@@ -1,0 +1,3 @@
+conda create -p OilSpillVenv python=3.10 -y
+conda activate C:\Users\hp\Desktop\OilSpillDTN\Infy_Spng_Int_Proj\OilSpillVenv // to activate condata env
+conda deactivate
