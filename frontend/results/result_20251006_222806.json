@@ -1,0 +1,14 @@
+{
+  "timestamp": "20251006_222806",
+  "filename": "oilSPill2.jpeg",
+  "metrics": {
+    "total_pixels": 65536,
+    "oil_spill_pixels": 57065,
+    "coverage_percentage": 87.07427978515625,
+    "severity": "High"
+  },
+  "original_size": [
+    265,
+    190
+  ]
+}

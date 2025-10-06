@@ -7,3 +7,4 @@ scipy
 tensorflow
 tensorflow-gpu
 streamlit
+scikit-learn
